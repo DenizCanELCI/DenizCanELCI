@@ -1,19 +1,4 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-19358
-Fork on GitHub
-5760
 
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
-markdown
 <h1 align="center">Hi 👋, I'm Deniz Can ELCI,</h1>
 <h3 align="center">A passionate ML & Python developer now in Germany</h3>
 
