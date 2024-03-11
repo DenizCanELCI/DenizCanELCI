@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Deniz Can ELCI,</h1>
-<h3 align="center">A passionate ML & Python developer now in Germany</h3>
+<h3 align="center">A passionate Machine Learning & Python developer</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=denizcanelci" alt="denizcanelci" /></a> </p>
 
