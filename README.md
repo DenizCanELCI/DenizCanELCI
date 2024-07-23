@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=denizcanelci" alt="denizcanelci" /></a> </p>
 
-- 🔭 I’m currently working on [Sppotify Danceability Playlist, Earthquake Quick Damage Detection](https://github.com/Tuxedomask95/spotify_danceability)
+- 🔭 I’m currently working on [Spotify Danceability Playlist, Earthquake Quick Damage Detection](https://github.com/Tuxedomask95/spotify_danceability)
 
 - 🌱 I’m currently learning **Tensorflow, Django, CNN's**
 
